@@ -11,7 +11,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/walker145/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walker145&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walker145&layout=compact&theme=dark)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=walker145&theme=dracula)
 
