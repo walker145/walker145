@@ -34,10 +34,7 @@
 
 ![](https://img.shields.io/badge/java-1.0-brightgreen)
 
-☁️
-<hr>
-![Visitor Count](https://profile-counter.glitch.me/walker145/count.svg)
-<hr>
+☁️![Visitor Count](https://profile-counter.glitch.me/walker145/count.svg)
 📈 Github Stats
 
 <br>
