@@ -32,15 +32,13 @@
 <br>
 <hr>
 
-<hr>
-<br>
-![](https://img.shields.io/badge/java-1.0-brightgreen)
-<br>
-<hr>
 
-<hr>
+![](https://img.shields.io/badge/java-1.0-brightgreen)
+
+
+
 ![Visitor Count](https://profile-counter.glitch.me/walker145/count.svg)
-<hr>
+
 
 📈 Github Stats
 
