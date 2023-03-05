@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walker145&layout=compact&theme=tokyonight)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=walker145&theme=dracula)
+
 
 <!---
 walker145/walker145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
