@@ -16,4 +16,4 @@ jobs :
       - name :  Pull in dev.to posts 
         uses :  walker145/blog-post-workflow@v1 
         with : 
-          feed_list :  " https://dev.to/feed/walker" 
+          feed_list :  " https://dev.to/feed/walker145" 
