@@ -35,12 +35,16 @@
 - 👋 Hi, I’m @walker145
  
 - 👀 I’m interested in java
+
+- 🔭 I’m currently working
  
 - 🌱 我现在正在学习后端编
  
 - 💞️ I’m looking to collaborate on ...
  
 - 📫 How to reach me ...
+
+- 💬 Open for your suggestions
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
