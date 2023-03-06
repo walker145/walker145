@@ -6,10 +6,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FF7&width=800&lines=在广袤的空间和无限的时间中;能与你共享同一颗行星和同一段时光是我的荣幸!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-
-<div align="center">
-    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
-  </div>
   
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
