@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=在广袤的空间和无限的时间中;能与你共享同一颗行星和同一段时光是我的荣幸!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B1FF7&width=800&lines=在广袤的空间和无限的时间中;能与你共享同一颗行星和同一段时光是我的荣幸!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
