@@ -201,6 +201,8 @@ You can click the Preview link to take a look at your changes.
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
+  <!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=walker145&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
