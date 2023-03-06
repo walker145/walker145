@@ -29,15 +29,28 @@
 <h1 align="center">About Me 🚀</h1>
 <h1 align="center">Hello World👋!</h1>
 
-<img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="25%" />
+<img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%" />
+ 
+- 🔭 I’m currently working on **Frontend & Backend**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/ajay-84sia/" target="_blank">LinkedIn</a> & <a href="https://github.com/Ajay84sia" target="_blank">GitHub</a>**
+
+- 📫 My Portfolio **<a href="https://ajay84sia.github.io/" target="_blank">Portfolio</a>**
+
+- 📫 Reach me on **<a href="https://linkfree.eddiehub.io/Ajay84sia" target="_blank">Linkfree</a>**
+
+- 💬 Open for your suggestions
+
 - 👋 Hi, I’m @walker145
-- 
+ 
 - 👀 I’m interested in java
-- 
+ 
 - 🌱 我现在正在学习后端编
-- 
+ 
 - 💞️ I’m looking to collaborate on ...
-- 
+ 
 - 📫 How to reach me ...
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
