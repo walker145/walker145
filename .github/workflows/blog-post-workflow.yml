@@ -1,1 +1,19 @@
+ame 姓名:  ： Latest blog post workflow 最新博客文章工作流
+on 在: ：
+  schedule 时间表:  ： # Run workflow automatically  自动运行工作流
+    - cron 克龙:  ： ' “0 * * * *' “ # Runs every hour, on the hour  每小时运行一次，整点运行
+  workflow_dispatch 工作流_分派:  ： # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly  直接通过GitHub操作工作流页面手动运行工作流（无需等待cron被调用）
+permissions 权限: ：
+  contents 内容:  ： write  写 # To write the generated contents to the readme  将生成的内容写入自述文件
 
+jobs 工作: ：
+  update-readme-with-blog 用博客更新自述文件: ：
+    name 姓名:  ： Update this repo's README with latest blog posts 使用最新的博客文章更新此repo的自述文件
+    runs-on 连续的:  ： ubuntu-latest 最新的ubuntu
+    steps 台阶: ：
+      - name 姓名:  ： Checkout 结帐
+        uses 用途:  ： actions/checkout@v3 操作/签出@v3
+      - name 姓名:  ： Pull in dev.to posts 拉入dev.to帖子
+        uses 用途:  ： walker145/blog-post-workflow@v1 gautamkrishnar/博客后工作流@v1
+        with 与: ：
+          feed_list 馈送列表:  ： " “https://dev.to/feed/walker" “
