@@ -5,6 +5,7 @@
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false+%E5%81%87%E7%9A%84&vCenter=false+%E5%81%87%E7%9A%84&repeat=true+%E7%9C%9F&width=435&lines=%E5%9C%A8%E5%B9%BF%E8%A2%A4%E7%9A%84%E7%A9%BA%E9%97%B4%E5%92%8C%E6%97%A0%E9%99%90%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%AD%EF%BC%8C%E8%83%BD%E4%B8%8E%E4%BD%A0%E5%85%B1%E4%BA%AB%E5%90%8C%E4%B8%80%E9%A2%97%E8%A1%8C%E6%98%9F%E5%92%8C%E5%90%8C%E4%B8%80%E6%AE%B5%E6%97%B6%E5%85%89%E6%98%AF%E6%88%91%E7%9A%84%E8%8D%A3%E5%B9%B8%E3%80%82" alt="Typing SVG" /></a>
   </div>
 
 
