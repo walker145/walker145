@@ -75,6 +75,8 @@
 </p>
 
 <hr>
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
 <h3 align="left">🛠️Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
