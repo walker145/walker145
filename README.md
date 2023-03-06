@@ -120,6 +120,23 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walker145&theme=react&hide_border=false)<br><br>![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=walker145&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 
+# Chess
+**Ever wanted to play an open chess tournament with random strangers across the internet? Well, today is your lucky day! It's currently <!-- BEGIN TURN -->red<!-- END TURN -->'s turn. Scroll down to play!**
+
+<!-- BEGIN CHESS BOARD -->
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="img/black/br.svg" width=50px> | <img src="img/black/bn.svg" width=50px> | <img src="img/black/bb.svg" width=50px> | <img src="img/black/bq.svg" width=50px> | <img src="img/black/bk.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/br.svg" width=50px> | **8** |
+| **7** | <img src="img/black/bp.svg" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/black/bp.svg" width=50px> | **7** |
+| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
+| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
+| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/black/bn.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
+| **3** | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wb.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
+| **2** | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/white/wp.svg" width=50px> | <img src="img/white/wp.svg" width=50px> | **2** |
+| **1** | <img src="img/white/wr.svg" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wb.svg" width=50px> | <img src="img/white/wq.svg" width=50px> | <img src="img/white/wk.svg" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/white/wn.svg" width=50px> | <img src="img/white/wr.svg" width=50px> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+<!-- END CHESS BOARD -->
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=walker145&theme=dracula)
 
 
