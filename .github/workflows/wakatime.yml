@@ -10,7 +10,7 @@ jobs:
     name: Update README
     runs-on: windows-latest
     steps:
-      - uses: walker145/wakatime-readme@master
+      - uses: walker145/wakatime@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
