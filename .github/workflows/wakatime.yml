@@ -1,4 +1,4 @@
-name: WakaTime Readme
+name:  wakatim readme
 
 on:
   workflow_dispatch:
@@ -8,9 +8,9 @@ on:
 jobs:
   update-readme:
     name: Update README
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
-      - uses: walker145/waka-readme@master
+      - uses: walker145/wakatime-readme@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
